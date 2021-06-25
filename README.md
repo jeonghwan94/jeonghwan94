@@ -14,16 +14,9 @@
 
 ## - 👀 Data Analysis
 - Apache Spark, AWS , web scraping , Google Sheets
-
-
-
-## 프로젝트
-> 업데이트 예정
 >
 
 <div align=center>
-	
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://blog.naver.com/l_jeonghwan)
 
 </div>
 
