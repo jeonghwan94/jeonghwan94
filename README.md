@@ -1,26 +1,37 @@
+### Hello, I'm Lee Jung Hwan.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghwan94&count_bg=%233DC8B7&title_bg=%23555555&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 👋 안녕하세요 Jeonghwan 입니다.
-## 🌱 시중에 나온 책, 블로그, 논문, 강의를 통해서 공부를 진행하고 있습니다.
-## (자세한 내용은 업데이트 예정입니다.) - 컴퓨터 공학, 통계, 인사이트, 비즈니스 이해
-## 🌱 Ai = Machine Learning/Deep Learning , Data Science , Data analyst
-## 💞️ 관심 연구 분야: 텍스트마이닝 , 추천시스템 , 이상탐지 
+🎓:Korea IT Education Center (National Student)
 
-## - ✨ Programming language
-- Jupyter Notebook(Python) [ Primary Language ]
-- R(RStudio) [ Sub Language ]
+🖋️ Bachelor of Science in Computer Engineering in the Credit Bank System (in progress)
 
-## - 🌱 Deep Learning framework
-- Keras , Tensorflow [ tf.keras ] , PyTorch
+🌱 Interested in Recommended system , Text Mining , Anomaly detection
 
-## - 👀 Data Analysis
-- Apache Spark, AWS , web scraping , Google Sheets
->
+💻: Learning
 
-<div align=center>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
+
+<div align = center>
+
 
 </div>
 
-<!---
-jeonghwan94/jeonghwan94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!--
+**ne-choi/ne-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
