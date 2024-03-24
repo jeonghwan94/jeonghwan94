@@ -3,8 +3,6 @@
 
 🎓:Korea IT Education Center (National Student)
 
-🖋️ Bachelor of Science in Computer Engineering in the Credit Bank System (in progress)
-
 🌱 Interested in Recommended system , Text Mining , Image processing
 
 💻: Learning
