@@ -1,7 +1,7 @@
 ### Hello, I'm Lee Jung Hwan.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghwan94&count_bg=%233DC8B7&title_bg=%23555555&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🎓:Korea IT Education Center (National Student)
+🎓:Korea IT Education Center (National Student) , 패스트 캠퍼스
 
 🌱 Interested in Recommended system , Text Mining , Image processing
 
